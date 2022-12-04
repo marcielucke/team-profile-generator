@@ -18,7 +18,6 @@
 - [Credits](#credits)
 - [License](#license)
 - [Contributers](#contributors)
-- [Tests] (#tests)
 - [Contact!](#Contact)
 
 ## Installation
