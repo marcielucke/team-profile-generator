@@ -30,7 +30,8 @@ To install my project you will need the following programs!
 
 Watch video below for usage instructions!
 
-[video](https://drive.google.com/file/d/1oD99nIexCZt1S0LIQroiWYHo9voJdZr6/preview")
+[video instructions](https://drive.google.com/file/d/1oD99nIexCZt1S0LIQroiWYHo9voJdZr6/view)
+
  
 
 
