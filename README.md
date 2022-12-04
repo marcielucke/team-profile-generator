@@ -25,6 +25,10 @@
 To install my project you will need the following programs! 
 
  npm i
+ 
+ Node 
+ 
+ Inquirer package 
 
 ## Usage
 
