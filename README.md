@@ -3,8 +3,9 @@
 
 ## Description
 
-    This project uses node.js, JavaScript, and Inquirer to generate a team profile based off the input from a user.
+    This project uses node.js, JavaScript, and Inquirer to generate a team profile based off the input from a user. This project demonstrates use of OOP and TDD using Jest.
 
+[deployed site](https://marcielucke.github.io/team-profile-generator/)
     
 
 
@@ -30,7 +31,7 @@ To install my project you will need the following programs!
 
 Watch video below for usage instructions!
 
-[video instructions](https://drive.google.com/file/d/1oD99nIexCZt1S0LIQroiWYHo9voJdZr6/view)
+[video instructions](https://drive.google.com/file/d/1ZZD85bVY5Gng7T3JTUzP3k9eHtB9ezGf/view)
 
  
 

@@ -150,7 +150,7 @@ addMember();
 const generateHTML = (teamArray) => {
 
   console.log(teamArray);
-  let {name, position, idM, idE, idI, emailM, emailE, emailI, officeNumber, github, school} = teamArray[0];
+  let {name, position, idM, idE, idI, emailM, emailE, emailI, officeNumber, github, school} = teamArray;
 
   return `<!DOCTYPE html>
   <html lang="en">
